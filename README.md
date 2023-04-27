@@ -8,5 +8,7 @@
     
 2 - Pull DSP repo:
     https://github.com/cvillaru/DSP---CSBPCG-code.git
+    Navigate to pulled repo
+    Export DSP
     
     
